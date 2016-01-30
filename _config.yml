@@ -1,0 +1,14 @@
+layout_spectrum: 0.556928
+typography_spectrum: 0.3979592
+color:
+  saturation: 0.1275809
+  lightness: 0.7449809
+  brandStrength: 0.9833512
+  brandColors:
+    - '#C8CDBE'
+    - '#A3A39A'
+    - '#290D28'
+    - '#4A4254'
+    - '#897F7F'
+  rhythmicContrast: 0.3381921
+name: Ted Cheney
